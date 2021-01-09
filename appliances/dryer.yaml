@@ -1,0 +1,44 @@
+postAdForm.galleryImageIndex: 0
+postAdForm.geocodeLat: 51.1286009
+postAdForm.geocodeLng: -114.0555886
+postAdForm.city: Edmonton
+postAdForm.province: AB
+PostalLat: 
+PostalLng: 
+categoryId: 700
+postAdForm.locationId: 1700203
+postAdForm.mapAddress: Edmonton, AB T6W 0V5
+postAdForm.postalCode: T6W 0V5
+postAdForm.showLocationOnMap: false
+postAdForm.saveLocation: true
+postAdForm.mapRadius: 1806.370722079278
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.attributeMap[fulfillment_s]: curbside
+postAdForm.attributeMap[payment_s]: 
+postAdForm.title: Samsung Front Loading Gas and Electric Dryer DV339AE 
+postAdForm.description: "Samsung Front Load Gas and Electric Dryer DV339AE 
+
+Sell cause of upgrading laundry room.
+Very clean, extremely reliable and runs very quiet!
+Is plugged in and running.
+
+Dimensions: width: 27 inches |  tall: 38.8 inches | deep: 30.25 inches | deep w/ door open: 49 inches
+
+7.3 cu. ft. of capacity 
+250 OBO"
+postAdForm.tagsInput: 
+postAdForm.tags: samsung dryer,dryer,drying machine,appliance
+file: 
+postAdForm.youtubeVideoURL: 
+postingLocation: 1700203
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 250
+postAdForm.phoneNumber: 7802450708
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './dryer1.jpg'
+- './dryer2.jpg'
+- './dryer3.jpg'
+- './dryer4.jpg'

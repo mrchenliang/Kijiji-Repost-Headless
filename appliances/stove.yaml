@@ -1,0 +1,43 @@
+postAdForm.galleryImageIndex: 0
+postAdForm.geocodeLat: 51.1286009
+postAdForm.geocodeLng: -114.0555886
+postAdForm.city: Edmonton
+postAdForm.province: AB
+PostalLat: 
+PostalLng: 
+categoryId: 697
+postAdForm.locationId: 1700203
+postAdForm.mapAddress: Edmonton, AB T6W 0V5
+postAdForm.postalCode: T6W 0V5
+postAdForm.showLocationOnMap: false
+postAdForm.saveLocation: true
+postAdForm.mapRadius: 1806.370722079278
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.attributeMap[fulfillment_s]: delivery,curbside
+postAdForm.attributeMap[payment_s]: 
+postAdForm.title: Frigidaire Stove Oven Range | Clean & Reliable
+postAdForm.description: "Frigidaire Stove Oven Range | $200 OBO
+Sell cause of upgrading kitchen.
+Very clean, extremely reliable and runs very quiet!
+Is plugged in and running.
+
+Dimensions: width: 30 inches |  tall: 36 inches | deep: 29 inches
+
+Delivery Extra or Pickup SW Edmonton"
+postAdForm.tagsInput: 
+postAdForm.tags: stove,oven,range,stove oven
+file: 
+postAdForm.youtubeVideoURL: 
+postingLocation: 1700203
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 200
+postAdForm.phoneNumber: 7802450708
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './stove1.jpg'
+- './stove2.jpg'
+- './stove3.jpg'
+- './stove4.jpg'
+- './stove5.jpg'
