@@ -81,3 +81,5 @@ Please open a GitHub issue or pull request if you discover problems.
 
 - Better error handling
 - Avoid reuploading the same pictures again and again
+
+python3 kijiji_repost_headless repost /Users/chenliang/Desktop/Kijiji-Repost-Headless/1891/item.yaml

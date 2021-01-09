@@ -1,0 +1,89 @@
+postAdForm.galleryImageIndex: 
+postAdForm.geocodeLat: 0.0
+postAdForm.geocodeLng: 0.0
+postAdForm.city: 
+postAdForm.province: 
+PostalLat: 
+PostalLng: 
+categoryId: 37
+postAdForm.locationId: 1700232
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forrentbyhousing_s]: ownr
+postAdForm.attributeMap[unittype_s]: basement-apartment
+postAdForm.attributeMap[numberbedrooms_s]: 1
+postAdForm.attributeMap[numberbathrooms_s]: 1
+postAdForm.attributeMap[agreementtype_s]: one-year
+postAdForm.attributeMap[dateavailable_tdt]: 15/12/2020
+postAdForm.attributeMap[petsallowed_s]: limited
+postAdForm.attributeMap[areainfeet_i]: 500
+postAdForm.attributeMap[furnished_s]: 1
+postAdForm.booleanAttributeIds: laundryinunit_s
+postAdForm.booleanAttributeIds: dishwasher_s
+postAdForm.booleanAttributeIds: fridgefreezer_s
+postAdForm.attributeMap[airconditioning_s]: 1
+postAdForm.booleanAttributeIds: yard_s
+postAdForm.attributeMap[smokingpermitted_s]: 0
+postAdForm.booleanAttributeIds: hydro_s
+postAdForm.booleanAttributeIds: heat_s
+postAdForm.booleanAttributeIds: water_s
+postAdForm.booleanAttributeIds: internet_s
+postAdForm.attributeMap[numberparkingspots_s]: 1
+postAdForm.attributeMap[termagreement_s]: 
+postAdForm.attributeMap[rentalsvirtualoptions_s]: 
+postAdForm.title: Gorgeous Furnished Bedroom In Timberlea Available Immediately
+postAdForm.description: 'Stop looking around because here is the perfect place for you in Fort McMurray?
+
+Have a look at the pictures taken in the house: https://www.dropbox.com/sh/giawlrxpmsqalor/AACpfYQd4yWS7oNa0bkWQeIAa?dl=0 
+
+This beautiful spacious one bed-room fully furnished bedroom is conveniently located
+-2 minute walking distances to a Diversified bus stop for any site
+-15 minute drive to shopping in downtown and Keyano College
+-Easy access to Highway 63 to Edmonton 
+-5 minutes drive to groceries, gas station and local gym.
+
+The fully furnished bedroom suite for rent (or without furniture). Brand new, never occupied home. The space also includes is an open concept living space with the kitchen and living room.  In addition, it is very spacious and bright, therefore providing plenty of living space for a single person.  This is perfect home for a commuting individual living in Fort McMurray
+
+Restrictions: No smoking; No Pets
+
+Parking: Street parking with plug in
+Requirements: References and security deposit first and last month rent 
+Utilities included: Internet, cable, heat, water, and electricity 
+Tenant share responsibility for snow clearing, grass cutting in summer months
+
+We are looking for responsible working tenant(s) that are willing to sign a 1-year lease. Asking for $750.00/month
+
+It is move in ready and available immediately! Rent can be prorated based on move in date!
+
+Feel free to contact me at c:780.245.0708 or c.liang@ualberta.ca
+
+Cheers,
+Chen'
+postAdForm.tagsInput: 
+postAdForm.tags: Fort McMurray,Thickwood,Timberlea
+postAdForm.addressStreetNumber: 196
+postAdForm.addressStreetName: Blackburn Drive
+postAdForm.addressCity: Fort McMurray
+postAdForm.addressProvince: AB
+postAdForm.addressPostalCode: T9K 0Z8
+locationLevel0: 1700232
+postAdForm.mapAddress: 196 Blackburn Drive, Fort McMurray T9K 0Z8 AB
+file: 
+postAdForm.youtubeVideoURL: 
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 750
+postAdForm.phoneNumber: 7802450708
+featuresForm.featurePackage: PKG_BASIC
+file: 
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './11.jpg'
+- './12.jpg'
+- './13.jpg'
+- './14.jpg'
+- './15.jpg'
+- './16.jpg'
+- './17.jpg'
+- './18.jpg'
+- './19.jpg'
+- './20.jpg'

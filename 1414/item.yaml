@@ -1,0 +1,88 @@
+postAdForm.galleryImageIndex: 
+postAdForm.geocodeLat: 0.0
+postAdForm.geocodeLng: 0.0
+postAdForm.city: 
+postAdForm.province: 
+PostalLat: 
+PostalLng: 
+categoryId: 37
+postAdForm.locationId: 1700203
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forrentbyhousing_s]: ownr
+postAdForm.attributeMap[unittype_s]: house
+postAdForm.attributeMap[numberbedrooms_s]: 4
+postAdForm.attributeMap[numberbathrooms_s]: 35
+postAdForm.attributeMap[agreementtype_s]: one-year
+postAdForm.attributeMap[dateavailable_tdt]: 15/12/2020
+postAdForm.attributeMap[petsallowed_s]: limited
+postAdForm.attributeMap[areainfeet_i]: 2000
+postAdForm.attributeMap[furnished_s]: 0
+postAdForm.booleanAttributeIds: laundryinunit_s
+postAdForm.booleanAttributeIds: dishwasher_s
+postAdForm.booleanAttributeIds: fridgefreezer_s
+postAdForm.attributeMap[airconditioning_s]: 1
+postAdForm.booleanAttributeIds: yard_s
+postAdForm.attributeMap[smokingpermitted_s]: 0
+postAdForm.attributeMap[numberparkingspots_s]: 3
+postAdForm.attributeMap[termagreement_s]: 
+postAdForm.attributeMap[rentalsvirtualoptions_s]: 
+postAdForm.title: GORGEOUS FAMILY HOME IN RUTHERFORD (SOUTH EDMONTON) FOR RENT
+postAdForm.description: 'Are you interested in a permanent residence? Would you like to live within a great community?
+
+Stop looking around because here is the perfect home for you here in Edmonton. 
+
+Have a look first at these pictures taken of the house:  https://www.dropbox.com/sh/rajoh5y1qp5yxhn/AAD63ZpgfV40dvieXRgrkeJma?dl=0 
+This lovely home is conveniently located within 
+-Walking distances to 3 elementary schools, 3 playgrounds, 2 basketball courts, and 3 parks
+-3 different bus routes [39,47,49, (339, 347 late nights)]
+-10 minute driving or 15 minute bus ride from Century Park transit station
+-Easy access to both Anthony Henday Drive and Calgary Trail [Queen Elizabeth 2]
+-20 minutes to West Edmonton Mall and 10 minutes to South Edmonton Common Strip Mall
+-Great community atmosphere with walking distance to Sobeys and Save On Foods along with 2 gas stations (Petro Canada, Esso)
+
+The spacious 2000 sq. ft. house contains 4 bedrooms, 3 ½ bathrooms with a walk-in closet and jacuzzi included in the master bedroom; a bonus room with large ceilings. Recently renovated laminate flooring, fenced in gorgeous backyard with a brand-new composite deck included. The house is backed on to a walking trail and includes a double attached garage. The basement is furnished where you can find a separate bed & bathroom, and a theatre room along with ample storage space. It also has a brand new furnace and dishwasher!
+
+Restrictions: No smoking; Pets negotiable 
+Requirements: References and security deposit first and last month rent 
+Tenants Costs: Utilities 
+Tenant responsible for snow clearing, grass cutting in summer months
+
+
+We are looking for tenants that are willing to sign a 1-year lease. Asking for $2200.00/month
+
+Available Immediately! 
+
+Feel free to contact me at c:780.245.0708 or c.liang@ualberta.ca
+
+Cheers,
+Chen'
+postAdForm.tagsInput: 
+postAdForm.tags: Rutherford,South Edmonton,MacEwan
+postAdForm.addressStreetNumber: 1414
+postAdForm.addressStreetName: 114B Street SW
+postAdForm.addressCity: Edmonton
+postAdForm.addressProvince: AB
+postAdForm.addressPostalCode: T6W 0N2
+locationLevel0: 1700202
+postAdForm.locationSubArea: 1700203
+postAdForm.mapAddress: 1414 114B Street SW, Edmonton T6W 0N2 AB
+file: 
+postAdForm.youtubeVideoURL: 
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 2200
+postAdForm.phoneNumber: 7802450708
+featuresForm.featurePackage: PKG_BASIC
+file: 
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './1.jpg'
+- './2.jpg'
+- './3.jpg'
+- './4.jpg'
+- './5.jpg'
+- './6.jpg'
+- './7.jpg'
+- './8.jpg'
+- './9.jpg'
+- './10.jpg'

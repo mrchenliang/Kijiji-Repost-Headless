@@ -1,0 +1,36 @@
+postAdForm.galleryImageIndex: 0
+postAdForm.geocodeLat: 51.1286009
+postAdForm.geocodeLng: -114.0555886
+postAdForm.city: Edmonton
+postAdForm.province: AB
+PostalLat: 
+PostalLng: 
+categoryId: 14970001
+postAdForm.locationId: 1700203
+postAdForm.mapAddress: Edmonton, AB T6W 0V5
+postAdForm.postalCode: T6W 0V5
+postAdForm.showLocationOnMap: false
+postAdForm.saveLocation: true
+postAdForm.mapRadius: 435.6555040013806
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.attributeMap[fulfillment_s]: 
+postAdForm.attributeMap[payment_s]: 
+postAdForm.title: NPPE Text Prep Question and Material (300 Q&A and key knowledge)
+postAdForm.description: 'If you are planning on writing the National Professional Practice Exam (NPPE) to eventually obtain your professional engineering license, these notes and practice exams will prepare you for the exam and pass it easily!
+
+Helped myself get through the test very easily and smoothly. All I did was the practice exams and go through the key knowledge.
+
+Roughly took 20 hours to review to pass the NPPE'
+postAdForm.tagsInput: 
+postAdForm.tags: NPPE,Engineer,Ethics,APEGA
+file: 
+postAdForm.youtubeVideoURL: 
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 75
+postAdForm.phoneNumber: 7802450708
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './NPPE1.jpg'
+- './NPPE2.jpg'

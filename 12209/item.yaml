@@ -1,0 +1,90 @@
+postAdForm.galleryImageIndex: 
+postAdForm.geocodeLat: 0.0
+postAdForm.geocodeLng: 0.0
+postAdForm.city: 
+postAdForm.province: 
+PostalLat: 
+PostalLng: 
+categoryId: 37
+postAdForm.locationId: 1700203
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forrentbyhousing_s]: ownr
+postAdForm.attributeMap[unittype_s]: house
+postAdForm.attributeMap[numberbedrooms_s]: 4
+postAdForm.attributeMap[numberbathrooms_s]: 3
+postAdForm.attributeMap[agreementtype_s]: one-year
+postAdForm.attributeMap[dateavailable_tdt]: 01/02/2021
+postAdForm.attributeMap[petsallowed_s]: limited
+postAdForm.attributeMap[areainfeet_i]: 1400
+postAdForm.attributeMap[furnished_s]: 0
+postAdForm.booleanAttributeIds: laundryinunit_s
+postAdForm.booleanAttributeIds: dishwasher_s
+postAdForm.booleanAttributeIds: fridgefreezer_s
+postAdForm.attributeMap[airconditioning_s]: 1
+postAdForm.booleanAttributeIds: yard_s
+postAdForm.attributeMap[smokingpermitted_s]: 0
+postAdForm.attributeMap[numberparkingspots_s]: 2
+postAdForm.attributeMap[termagreement_s]: 
+postAdForm.attributeMap[rentalsvirtualoptions_s]: 
+postAdForm.title: GORGEOUS FAMILY HOME IN RUTHERFORD (SOUTH EDMONTON) FOR RENT
+postAdForm.description: 'Welcome to Rutherford @ Heritage Valley in South West Edmonton!
+This community is perfect for families and is completed with schools, parks, clubhouse, and much much more!
+
+Have a look first at these pictures taken of the house:  https://www.dropbox.com/sh/n0ok35fz3m0ktie/AADqkm79IS-OjJCY88gBEw2ka?dl=0 
+This lovely home is conveniently located within 
+-Walking distances to 3 elementary schools, 3 playgrounds, 2 basketball courts, and 3 parks
+-3 different bus routes [39,47,49, (339, 347 late nights)]
+-10 minute driving or 15 minute bus ride from Century Park transit station
+-Easy access to both Anthony Henday Drive, Calgary Trail [Queen Elizabeth 2] and Leduc, AB.
+-20 minutes to West Edmonton Mall and 10 minutes to South Edmonton Common Strip Mall or Premium Outlet Mall or the Edmonton International Airport
+-Great community atmosphere with walking distance to Sobeys and Save On Foods along with 2 gas stations (Petro Canada, Esso)
+
+The spacious 1400 sq. ft. Jayman built house contains 3 finished levels, 4 bedrooms, 2 ½ bathrooms. A Welcoming Large Front Veranda finishes off the curb appeal and leads you into this meticulous well-maintained home. As you enter the main floor you will be impressed by the Bright and Spacious area that offers a Living Room with Gas Fireplace, Open Oak Kitchen, with a Large Island, a Dining Nook looking over the South facing backyard and a 2pc bath just off the kitchen. Enjoy your favourite music with a built-in sound system. The Kitchen offers black appliances a gas stove, built-in dishwasher, and a large refrigerator. The second floor features a Large Master Bedroom, as well as Two other spacious bedrooms with lots of closet space and a 4pc. bathroom. In addition, the basement is furnished where you can find a separate bed & bathroom, and a theatre room along with ample storage space. It also has a brand-new furnace and dishwasher! Located only 1 block south of Johnny Bright School (K-Gr 7). 
+
+Restrictions: No smoking; Pets negotiable 
+Requirements: References and security deposit first and last month rent 
+Tenants Costs: Utilities 
+Tenant responsible for snow clearing, grass cutting in summer months
+
+
+We are looking for tenants that are willing to sign a 1-year lease. Asking for $2000.00/month
+
+Available February 1st, 2020! 
+
+Feel free to contact me at c:780.245.0708 (text or call) or c.liang@ualberta.ca
+
+Cheers,
+Chen
+
+
+#rutherford; #macewan; #rutherfordheights'
+postAdForm.tagsInput: 
+postAdForm.tags: Rutherford,South Edmonton,MacEwan,Rutherford Heights
+postAdForm.addressStreetNumber: 12209
+postAdForm.addressStreetName: 16 Ave SW
+postAdForm.addressCity: Edmonton
+postAdForm.addressProvince: AB
+postAdForm.addressPostalCode: T6W 1L7
+locationLevel0: 1700202
+postAdForm.locationSubArea: 1700203
+postAdForm.mapAddress: 12209 16 Ave SW, Edmonton T6W 1L7 AB
+file: 
+postAdForm.youtubeVideoURL: 
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 2000
+postAdForm.phoneNumber: 7802450708
+featuresForm.featurePackage: PKG_BASIC
+file: 
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './1.jpg'
+- './4.jpg'
+- './6.jpg'
+- './8.jpg'
+- './10.jpg'
+- './12.jpg'
+- './13.jpg'
+- './14.jpg'
+- './18.jpg'
+- './19.jpg'

@@ -1,0 +1,89 @@
+postAdForm.galleryImageIndex: 
+postAdForm.geocodeLat: 0.0
+postAdForm.geocodeLng: 0.0
+postAdForm.city: 
+postAdForm.province: 
+PostalLat: 
+PostalLng: 
+categoryId: 37
+postAdForm.locationId: 1700232
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forrentbyhousing_s]: ownr
+postAdForm.attributeMap[unittype_s]: basement-apartment
+postAdForm.attributeMap[numberbedrooms_s]: 1.5
+postAdForm.attributeMap[numberbathrooms_s]: 1
+postAdForm.attributeMap[agreementtype_s]: one-year
+postAdForm.attributeMap[dateavailable_tdt]: 15/12/2020
+postAdForm.attributeMap[petsallowed_s]: limited
+postAdForm.attributeMap[areainfeet_i]: 650
+postAdForm.attributeMap[furnished_s]: 1
+postAdForm.booleanAttributeIds: laundryinunit_s
+postAdForm.booleanAttributeIds: dishwasher_s
+postAdForm.booleanAttributeIds: fridgefreezer_s
+postAdForm.attributeMap[airconditioning_s]: 1
+postAdForm.booleanAttributeIds: yard_s
+postAdForm.attributeMap[smokingpermitted_s]: 0
+postAdForm.booleanAttributeIds: hydro_s
+postAdForm.booleanAttributeIds: heat_s
+postAdForm.booleanAttributeIds: water_s
+postAdForm.booleanAttributeIds: internet_s
+postAdForm.attributeMap[numberparkingspots_s]: 1
+postAdForm.attributeMap[termagreement_s]: 
+postAdForm.attributeMap[rentalsvirtualoptions_s]: 
+postAdForm.title: Gorgeous Furnished Separate Basement 1 Bedroom+Den Suite
+postAdForm.description: 'Are you a transient worker working in Fort McMurray looking for a private dwelling?
+
+Stop looking around because here is the perfect place for you in Fort McMurray?
+
+Have a look at the pictures taken in the house: https://www.dropbox.com/sh/t3z3eoh2cdo5jkb/AAAaZHtWIuxT1SyKC2uyD0ema?dl=0Xcza?dl=0
+
+This beautiful spacious one bed-room fully furnished basement suite is conveniently located
+-2 minute walking distances to a Diversified bus stop for any site
+-15 minute drive to shopping in downtown and Keyano College
+-Easy access to Highway 63 to Edmonton 
+-5 minutes drive to groceries, gas station and local gym.
+
+The Beautiful spacious 650 sq. ft. one-bedroom fully furnished legal basement suite for rent (or without furniture). Brand new, never occupied home has its own separate entrance with all appliances supplied (stove fridge, dishwasher, washer and dryer). The space is an open concept living space with the kitchen and living room. There is a queen sized bed with a large walk-in closet. With plenty of counter space, it is ready for your cooking and a dining table already set up, complete with cookware, and utensils. There is a full bath room in the basement as well. In addition, it is very spacious and bright, therefore providing plenty of living space for a single person. 
+
+Restrictions: No smoking; Pets negotiable 
+
+Parking: Street parking with plug in
+Requirements: References and security deposit first and last month rent 
+Utilities cover: Internet, cable, heat, water, and electricity 
+Tenant share responsibility for snow clearing, grass cutting in summer months
+
+We are looking for responsible working tenant(s) that are willing to sign a 1-year lease. Asking for $1250.00/month
+
+It is move in ready and available immediately! Rent can be prorated based on move in date!
+
+Feel free to contact me at c:780.245.0708 or c.liang@ualberta.ca
+
+Cheers,
+Chen'
+postAdForm.tagsInput: 
+postAdForm.tags: Fort McMurray,Thickwood,Timberlea
+postAdForm.addressStreetNumber: 196
+postAdForm.addressStreetName: Blackburn Drive
+postAdForm.addressCity: Fort McMurray
+postAdForm.addressProvince: AB
+postAdForm.addressPostalCode: T9K 0Z8
+locationLevel0: 1700232
+postAdForm.mapAddress: 196 Blackburn Drive, Fort McMurray T9K 0Z8 AB
+file: 
+postAdForm.youtubeVideoURL: 
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 1250
+postAdForm.phoneNumber: 7802450708
+featuresForm.featurePackage: PKG_BASIC
+file: 
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './1.jpg'
+- './2.jpg'
+- './3.jpg'
+- './4.jpg'
+- './5.jpg'
+- './6.jpg'
+- './7.jpg'
+- './8.jpg'
