@@ -38,8 +38,3 @@ postAdForm.phoneNumber: 7802450708
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './fridge1.jpg'
-- './fridge2.jpg'
-- './fridge3.jpg'
-- './fridge4.jpg'
-- './fridge5.jpg'
