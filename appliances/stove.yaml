@@ -36,8 +36,3 @@ postAdForm.phoneNumber: 7802450708
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './stove1.jpg'
-- './stove2.jpg'
-- './stove3.jpg'
-- './stove4.jpg'
-- './stove5.jpg'
