@@ -38,7 +38,3 @@ postAdForm.phoneNumber: 7802450708
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './dryer1.jpg'
-- './dryer2.jpg'
-- './dryer3.jpg'
-- './dryer4.jpg'
