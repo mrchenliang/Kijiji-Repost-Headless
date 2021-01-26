@@ -45,5 +45,5 @@ postAdForm.phoneNumber: 7802450708
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './20182.jpg'
 - './20181.jpg'
+- './20182.jpg'

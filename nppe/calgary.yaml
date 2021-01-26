@@ -20,11 +20,9 @@ postAdForm.title: "NPPE Text Prep Questions & Material -300 Key Knowledge & Q&A"
 postAdForm.description: 'If you are planning on writing the National Professional Practice Exam (NPPE) to eventually obtain your professional engineering license, these notes and practice exams will prepare you for the exam and pass it easily!
 
 Helped myself get through the test very easily and smoothly. All I did was the practice exams and go through the key knowledge.
-The test is 3 hours in duration, and has 110 questions. 
-The syllabus can be found here: https://www.apega.ca/apply/membership/exams/national-professional-practice-exam-nppe/syllabus
 Roughly took 20 hours to review to pass the NPPE'
 postAdForm.tagsInput: 
-postAdForm.tags: NPPE,Engineer,Ethics,APEGA,PEO,APEGM
+postAdForm.tags: NPPE,Engineer,Ethics,APEGA
 file: 
 postAdForm.youtubeVideoURL: 
 postAdForm.priceType: FIXED
@@ -33,8 +31,8 @@ postAdForm.phoneNumber: 7802450708
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './NPPE1.jpg'
 - './NPPE2.jpg'
+- './NPPE1.jpg'
 
 # I created them by following the official syllabus provided on PEO’s website and going through all of the topics in both the ethics and law textbooks (which will cost you $250 minimum). Instead, these notes have everything summarized for you. I put a lot of effort into making these but I believe this is the best set of notes out there.
 # Note, they are somewhat repetitive because a lot of the syllabus topics overlapped with the textbook content, but they are very comprehensive and with an extensive amount of detail on the topics. They may seem long at 97 pages, but you will not miss anything you need to know.
