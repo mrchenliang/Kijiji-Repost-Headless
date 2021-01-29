@@ -23,13 +23,14 @@ postAdForm.description: "
 
   Asking for 2200. I can meet in Edmonton or Calgary.
 
-  Very low battery count. Comes with all the new boxes and accessory.
+  Very low battery count. (currently @77) Comes with all the new boxes and accessory.
 
-  Processor: Intel Core i7 8th Generation CPU 2.2GHz and Turbo boost up to 4.1GHz
+  Processor: Intel Core i7 CPU 2.6GHz 6-core Intel Core i7, Turbo Boost up to 4.5GHz, with 12MB shared L3 cache
   Memory Type: 16GB 2400MHz DDR4
   Hard Drive: 256 SSD
+  Graph: Intel UHD Graphics 630 1536 MB
   Brand: Apple
-  Model: MacBook Pro A1990 (MR932LL/A)
+  Model: MacBook Pro A1990 (MV902LL/A)
   Color: Space Gray
   Screen Size: 15.4 inch
   Operating System: macOS
@@ -45,5 +46,6 @@ postAdForm.phoneNumber: 7802450708
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './20181.jpg'
-- './20182.jpg'
+- './20191.jpg'
+- './20192.jpg'
+- './20193.png'
