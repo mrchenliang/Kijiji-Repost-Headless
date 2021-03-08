@@ -7,8 +7,8 @@ PostalLat:
 PostalLng: 
 categoryId: 14970001
 postAdForm.locationId: 1700199
-postAdForm.mapAddress: Calgary, AB T3K 1L1
-postAdForm.postalCode: T3K 1L1
+postAdForm.mapAddress: Calgary, AB T2P
+postAdForm.postalCode: T2P
 postAdForm.showLocationOnMap: false
 postAdForm.saveLocation: true
 postAdForm.mapRadius: 435.6555040013806
@@ -22,7 +22,7 @@ postAdForm.description: 'If you are planning on writing the National Professiona
 Helped myself get through the test very easily and smoothly. All I did was the practice exams and go through the key knowledge.
 Roughly took 20 hours to review to pass the NPPE'
 postAdForm.tagsInput: 
-postAdForm.tags: NPPE,Engineer,Ethics,APEGA
+postAdForm.tags: NPPE,Engineer
 file: 
 postAdForm.youtubeVideoURL: 
 postAdForm.priceType: FIXED
