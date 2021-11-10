@@ -1,0 +1,45 @@
+postAdForm.galleryImageIndex: 
+postAdForm.geocodeLat: 51.1286009
+postAdForm.geocodeLng: -114.0555886
+postAdForm.city: Calgary
+postAdForm.province: AB
+PostalLat: 
+PostalLng: 
+categoryId: 760
+postAdForm.locationId: 1700199
+postAdForm.mapAddress: Calgary, AB T3K 1L1
+postAdForm.postalCode: T3K 1L1
+postAdForm.showLocationOnMap: false
+postAdForm.saveLocation: true
+postAdForm.mapRadius: 435.6555040013806
+postAdForm.adType: OFFER
+postAdForm.attributeMap[phonebrand_s]: apple
+postAdForm.attributeMap[fulfillment_s]: 
+postAdForm.attributeMap[payment_s]: 
+postAdForm.attributeMap[phonecarrier_s]: unlck
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.attributeMap[condition_s]: usedlikenew
+postAdForm.title: iPhone 11 Pro 64 GB Space Grey Unlocked | Mint Condition
+postAdForm.description: "
+Mint condition iPhone 11 Pro 64GB UNLOCKED Space Grey
+iPhone has no scratches, no dents. (see images)
+Includes all original accessories, charger, charger brick, box and headphones.
+Comes with 2 cases and a brand new screen protector installed
+Also includes a genuine Apple product red silicone case in excellent condition.
+Asking $700 OBO
+Can meet in Edmonton or Calgary"
+postAdForm.tagsInput: 
+postAdForm.tags: iphone,iphone 11 pro,iphone 11,apple
+file: 
+postAdForm.youtubeVideoURL: 
+postingLocation: 1700203
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 700
+postAdForm.phoneNumber: 7802450708
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './iphone111.jpg'
+- './iphone112.jpg'
+- './iphone113.png'
+- './iphone114.png'

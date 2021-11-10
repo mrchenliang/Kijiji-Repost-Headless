@@ -1,0 +1,42 @@
+postAdForm.galleryImageIndex: 0
+postAdForm.geocodeLat: 51.1286009
+postAdForm.geocodeLng: -114.0555886
+postAdForm.city: Edmonton
+postAdForm.province: AB
+PostalLat: 
+PostalLng: 
+categoryId: 133
+postAdForm.locationId: 1700203
+postAdForm.mapAddress: Edmonton, AB T6W 0V5
+postAdForm.postalCode: T6w 0V5
+postAdForm.showLocationOnMap: false
+postAdForm.saveLocation: true
+postAdForm.mapRadius: 435.6555040013806
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.attributeMap[jewellerytype_s]: watches
+postAdForm.attributeMap[fulfillment_s]: 
+postAdForm.attributeMap[payment_s]: 
+postAdForm.attributeMap[condition_s]: usedlikenew
+postAdForm.title: Apple Watch 6th Gen 44mm Space Grey | Mint Condition
+postAdForm.description: "
+  Apple Watch Series 6 (GPS) 44mm Space Grey Aluminium Case
+
+  Pickup SW Edmonton or meet up in Calgary
+
+I am selling cause I just got an upgrade!"
+postAdForm.tags: apple watch,watch,watchOS,44mm,iphone
+file: 
+postAdForm.youtubeVideoURL: 
+postingLocation: 1700203
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 450
+postAdForm.phoneNumber: 7802450708
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './watch61.jpg'
+- './watch62.jpg'
+- './watch63.jpg'
+- './watch64.jpg'
+- './watch65.jpg'
