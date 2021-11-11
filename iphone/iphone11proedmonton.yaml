@@ -39,7 +39,7 @@ postAdForm.phoneNumber: 7802450708
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './iphone114.png'
+- './iphone114.jpg'
 - './iphone111.jpg'
 - './iphone112.jpg'
-- './iphone113.png'
+- './iphone113.jpg'
