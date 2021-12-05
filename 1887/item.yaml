@@ -13,7 +13,7 @@ postAdForm.attributeMap[unittype_s]: duplex-triplex
 postAdForm.attributeMap[numberbedrooms_s]: 3
 postAdForm.attributeMap[numberbathrooms_s]: 15
 postAdForm.attributeMap[agreementtype_s]: one-year
-postAdForm.attributeMap[dateavailable_tdt]: 15/12/2020
+postAdForm.attributeMap[dateavailable_tdt]: 15/01/2022
 postAdForm.attributeMap[petsallowed_s]: limited
 postAdForm.attributeMap[areainfeet_i]: 1200
 postAdForm.attributeMap[furnished_s]: 0
@@ -27,11 +27,11 @@ postAdForm.attributeMap[numberparkingspots_s]: 2
 postAdForm.attributeMap[termagreement_s]: 
 postAdForm.attributeMap[rentalsvirtualoptions_s]: 
 postAdForm.title: GORGEOUS HOME IN RUTHERFORD HEIGHTS (SOUTH EDMONTON) FOR RENT
-postAdForm.description: 'Are you interested in a permanent residence? 
+postAdForm.description: 'Are you interested in a permanent residence? Would you like to live within a great community?
 
-Would you like to live within a great community? Stop looking around because here is the perfect home for you here in Edmonton. 
+Stop looking around because here is the perfect home for you here in Edmonton. 
 
-Have a look first at these pictures taken of the house - https://www.dropbox.com/sh/4ywbsl04nzvr0e0/AADVM6RDJl_DQSxBbol3PW7Fa?dl=0 
+Have a look first at these pictures taken of the house:  https://www.dropbox.com/sh/07qisdja9srw95c/AAAXa2K6oWpvQvsJswRxD6dNa?dl=0
 
 This lovely home is conveniently located within 
 -Walking distances to 3 elementary schools, 3 playgrounds, 2 basketball courts, and 3 parks
@@ -41,46 +41,48 @@ This lovely home is conveniently located within
 -20 minutes to West Edmonton Mall and 10 minutes to South Edmonton Common Strip Mall
 -Great community atmosphere with walking distance to Sobeys and Save On Foods along with 2 gas stations (Petro Canada, Esso)
 
-The spacious 1200 sq. ft. duplex contains 3 bedrooms, 1 ½ bathrooms with a walk-in closet included in the master bedroom; a great room planned with cozy fireplace. Recently renovated laminate flooring, fenced in backyard with a brand new composite deck included. The house also has a single attached garage. The unfinished basement is where you will find laundry and ample storage space. It also has a brand new furnace and dishwasher!
+The spacious 1200 sq. ft. duplex contains 3 bedrooms, 1 ½ bathrooms with a walk-in closet included in the master bedroom; a great room planned with cozy fireplace and a finished basement. 
+The main floor includes a large kitchen with corner windows above the sink and plenty of counter space, a living room with corner gas fireplace and tons of light, a spacious dining room that looks over the yard and the main floor is finished entirely with walnut laminate flooring. 
+Upstairs you will find a large primary bedroom with plenty of windows and a lovely walk-in closet plus two additional bedrooms. The fully finished basement is perfect to watch your favourite show or the big game! 
+Enjoy relaxing in your west facing backyard with lots of space and is well treed for privacy. Enjoy a single attached garage and extended driveway! 
 
 Restrictions- No smoking; Pets negotiable
 Requirements- References and security deposit first and last month rent 
 Tenants Costs- Utilities 
 Tenant responsible for snow clearing, grass cutting in summer months
 
-We are looking for tenants that are willing to sign a 1-year lease. Asking for $1600.00/month
+
+We are looking for tenants that are willing to sign a 1-year lease. Asking for $1700.00/month
 
 Available Immediately! You can contact the previous tenant who has lived there for 3 years about the type of home it is!
 
 Feel free to contact me at cell 780.245.0708 or email c.liang@ualberta.ca'
 postAdForm.tagsInput: 
 postAdForm.tags: Rutherford,South Edmonton,Heritage Valley
-postAdForm.addressStreetNumber: 1891
+postAdForm.addressStreetNumber: 1887
 postAdForm.addressStreetName: Rutherford Road SW
 postAdForm.addressCity: Edmonton
 postAdForm.addressProvince: AB
 postAdForm.addressPostalCode: T6W 1P6
 locationLevel0: 1700202
 postAdForm.locationSubArea: 1700203
-postAdForm.mapAddress: 1891 Rutherford Road SW, Edmonton T6W 1P6 AB
+postAdForm.mapAddress: 1887 Rutherford Road SW, Edmonton T6W 1P6 AB
 file: 
 postAdForm.youtubeVideoURL: 
 postAdForm.priceType: FIXED
-postAdForm.priceAmount: 1600
+postAdForm.priceAmount: 1700
 postAdForm.phoneNumber: 7802450708
 featuresForm.featurePackage: PKG_BASIC
 file: 
 featuresForm.topAdDuration: 7
 submitType: saveAndCheckout
 image_paths:
-- './3.jpg'
-- './5.jpg'
-- './7.jpg'
-- './9.jpg'
-- './11.jpg'
-- './13.jpg'
-- './14.jpg'
-- './14.jpg'
-- './16.jpg'
-- './17.jpg'
-- './20.jpg'
+- './1.jpeg'
+- './3.jpeg'
+- './4.jpeg'
+- './7.jpeg'
+- './12.jpeg'
+- './13.jpeg'
+- './15.jpeg'
+- './20.jpeg'
+- './22.jpeg'
