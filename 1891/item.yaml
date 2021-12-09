@@ -13,7 +13,7 @@ postAdForm.attributeMap[unittype_s]: duplex-triplex
 postAdForm.attributeMap[numberbedrooms_s]: 3
 postAdForm.attributeMap[numberbathrooms_s]: 15
 postAdForm.attributeMap[agreementtype_s]: one-year
-postAdForm.attributeMap[dateavailable_tdt]: 15/12/2020
+postAdForm.attributeMap[dateavailable_tdt]: 20/01/2021
 postAdForm.attributeMap[petsallowed_s]: limited
 postAdForm.attributeMap[areainfeet_i]: 1200
 postAdForm.attributeMap[furnished_s]: 0
@@ -27,9 +27,17 @@ postAdForm.attributeMap[numberparkingspots_s]: 2
 postAdForm.attributeMap[termagreement_s]: 
 postAdForm.attributeMap[rentalsvirtualoptions_s]: 
 postAdForm.title: GORGEOUS HOME IN RUTHERFORD HEIGHTS (SOUTH EDMONTON) FOR RENT
-postAdForm.description: 'Are you interested in a permanent residence? 
+postAdForm.description: 'Are you interested in a permanent residence? Would you like to live within a great community?
 
-Would you like to live within a great community? Stop looking around because here is the perfect home for you here in Edmonton. 
+📍1891 Rutherford Road SW, Edmonton
+🏡 Rutherford Heights
+
+🛌 3 Beds
+🛀 2 Baths
+🚸 Rutherford Road
+💵 1,650 / Monthly 
+🅿️ 1 Garage 
+🔑 Possession Jan/Feb 2022
 
 Have a look first at these pictures taken of the house - https://www.dropbox.com/sh/4ywbsl04nzvr0e0/AADVM6RDJl_DQSxBbol3PW7Fa?dl=0 
 
@@ -48,7 +56,7 @@ Requirements- References and security deposit first and last month rent
 Tenants Costs- Utilities 
 Tenant responsible for snow clearing, grass cutting in summer months
 
-We are looking for tenants that are willing to sign a 1-year lease. Asking for $1600.00/month
+We are looking for tenants that are willing to sign a 1-year lease. Asking for $1650.00/month
 
 Available Immediately! You can contact the previous tenant who has lived there for 3 years about the type of home it is!
 
@@ -66,7 +74,7 @@ postAdForm.mapAddress: 1891 Rutherford Road SW, Edmonton T6W 1P6 AB
 file: 
 postAdForm.youtubeVideoURL: 
 postAdForm.priceType: FIXED
-postAdForm.priceAmount: 1600
+postAdForm.priceAmount: 1650
 postAdForm.phoneNumber: 7802450708
 featuresForm.featurePackage: PKG_BASIC
 file: 
