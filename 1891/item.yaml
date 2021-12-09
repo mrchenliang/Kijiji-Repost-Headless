@@ -13,7 +13,7 @@ postAdForm.attributeMap[unittype_s]: duplex-triplex
 postAdForm.attributeMap[numberbedrooms_s]: 3
 postAdForm.attributeMap[numberbathrooms_s]: 15
 postAdForm.attributeMap[agreementtype_s]: one-year
-postAdForm.attributeMap[dateavailable_tdt]: 20/01/2021
+postAdForm.attributeMap[dateavailable_tdt]: 20/01/2022
 postAdForm.attributeMap[petsallowed_s]: limited
 postAdForm.attributeMap[areainfeet_i]: 1200
 postAdForm.attributeMap[furnished_s]: 0
