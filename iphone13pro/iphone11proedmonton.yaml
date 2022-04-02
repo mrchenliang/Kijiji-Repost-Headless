@@ -1,0 +1,39 @@
+postAdForm.galleryImageIndex: 
+postAdForm.geocodeLat: 51.1286009
+postAdForm.geocodeLng: -114.0555886
+postAdForm.city: Edmonton
+postAdForm.province: AB
+PostalLat: 
+PostalLng: 
+categoryId: 760
+postAdForm.locationId: 1700203
+postAdForm.mapAddress: Edmonton, AB T6W 0V5
+postAdForm.postalCode: T6w 0V5
+postAdForm.showLocationOnMap: false
+postAdForm.saveLocation: true
+postAdForm.mapRadius: 435.6555040013806
+postAdForm.adType: OFFER
+postAdForm.attributeMap[phonebrand_s]: apple
+postAdForm.attributeMap[fulfillment_s]: 
+postAdForm.attributeMap[payment_s]: 
+postAdForm.attributeMap[phonecarrier_s]: unlck
+postAdForm.attributeMap[forsaleby_s]: ownr
+postAdForm.attributeMap[condition_s]: new
+postAdForm.title: iPhone 13 Pro Max 128 GB Silver Unlocked | BNIB
+postAdForm.description: "
+BNIB condition iPhone 13 Pro 128GB UNLOCKED Silver
+Includes all original accessories.
+Asking $1350 OBO
+Can meet in Edmonton or Calgary"
+postAdForm.tagsInput: 
+postAdForm.tags: iphone,iphone 13 pro,iphone 13 pro max,apple
+file: 
+postAdForm.youtubeVideoURL: 
+postingLocation: 1700203
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 1450
+postAdForm.phoneNumber: 7802450708
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './iphone13.jpeg'
