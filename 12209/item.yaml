@@ -13,7 +13,7 @@ postAdForm.attributeMap[unittype_s]: house
 postAdForm.attributeMap[numberbedrooms_s]: 4
 postAdForm.attributeMap[numberbathrooms_s]: 3
 postAdForm.attributeMap[agreementtype_s]: one-year
-postAdForm.attributeMap[dateavailable_tdt]: 01/02/2021
+postAdForm.attributeMap[dateavailable_tdt]: 01/06/2022
 postAdForm.attributeMap[petsallowed_s]: limited
 postAdForm.attributeMap[areainfeet_i]: 1400
 postAdForm.attributeMap[furnished_s]: 0
@@ -47,9 +47,9 @@ Tenants Costs: Utilities
 Tenant responsible for snow clearing, grass cutting in summer months
 
 
-We are looking for tenants that are willing to sign a 1-year lease. Asking for $2000.00/month
+We are looking for tenants that are willing to sign a 1-year lease. Asking for $2100.00/month
 
-Available February 1st, 2020! 
+Available June 1st, 2022! 
 
 Feel free to contact me at c:780.245.0708 (text or call) or c.liang@ualberta.ca
 
@@ -71,7 +71,7 @@ postAdForm.mapAddress: 12209 16 Ave SW, Edmonton T6W 1L7 AB
 file: 
 postAdForm.youtubeVideoURL: 
 postAdForm.priceType: FIXED
-postAdForm.priceAmount: 2000
+postAdForm.priceAmount: 2100
 postAdForm.phoneNumber: 7802450708
 featuresForm.featurePackage: PKG_BASIC
 file: 
