@@ -9,11 +9,11 @@ categoryId: 37
 postAdForm.locationId: 1700232
 postAdForm.adType: OFFER
 postAdForm.attributeMap[forrentbyhousing_s]: ownr
-postAdForm.attributeMap[unittype_s]: basement-apartment
+postAdForm.attributeMap[unittype_s]: townhouse
 postAdForm.attributeMap[numberbedrooms_s]: 1
 postAdForm.attributeMap[numberbathrooms_s]: 1
 postAdForm.attributeMap[agreementtype_s]: one-year
-postAdForm.attributeMap[dateavailable_tdt]: 15/12/2020
+postAdForm.attributeMap[dateavailable_tdt]: 01/12/2022
 postAdForm.attributeMap[petsallowed_s]: limited
 postAdForm.attributeMap[areainfeet_i]: 500
 postAdForm.attributeMap[furnished_s]: 1
@@ -61,6 +61,7 @@ Chen'
 postAdForm.tagsInput: 
 postAdForm.tags: Fort McMurray,Thickwood,Timberlea
 postAdForm.addressStreetNumber: 196
+
 postAdForm.addressStreetName: Blackburn Drive
 postAdForm.addressCity: Fort McMurray
 postAdForm.addressProvince: AB
