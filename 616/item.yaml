@@ -1,0 +1,85 @@
+postAdForm.galleryImageIndex: 
+postAdForm.geocodeLat: 0.0
+postAdForm.geocodeLng: 0.0
+postAdForm.city: 
+postAdForm.province: 
+PostalLat: 
+PostalLng: 
+categoryId: 37
+postAdForm.locationId: 1700203
+postAdForm.adType: OFFER
+postAdForm.attributeMap[forrentbyhousing_s]: ownr
+postAdForm.attributeMap[unittype_s]: condo
+postAdForm.attributeMap[numberbedrooms_s]: 2
+postAdForm.attributeMap[numberbathrooms_s]: 20
+postAdForm.attributeMap[agreementtype_s]: one-year
+postAdForm.attributeMap[dateavailable_tdt]: 15/05/2023
+postAdForm.attributeMap[petsallowed_s]: limited
+postAdForm.attributeMap[areainfeet_i]: 850
+postAdForm.attributeMap[furnished_s]: 0
+postAdForm.booleanAttributeIds: laundryinunit_s
+postAdForm.booleanAttributeIds: dishwasher_s
+postAdForm.booleanAttributeIds: fridgefreezer_s
+postAdForm.attributeMap[airconditioning_s]: 1
+postAdForm.booleanAttributeIds: balcony_s
+postAdForm.booleanAttributeIds: hydro_s
+postAdForm.booleanAttributeIds: heat_s
+postAdForm.booleanAttributeIds: water_s
+postAdForm.booleanAttributeIds: twentyfourhoursecurity_s
+postAdForm.booleanAttributeIds: elevator_s
+postAdForm.attributeMap[smokingpermitted_s]: 0
+postAdForm.attributeMap[numberparkingspots_s]: 1
+postAdForm.attributeMap[termagreement_s]: 
+postAdForm.attributeMap[rentalsvirtualoptions_s]: 
+postAdForm.title: 'Charming & Spacious MacEwan Village Condo: All-Inclusive Living'
+postAdForm.description: "Welcome to MacEwan Village in SW Edmonton! Secure a 12-month\
+  \ lease for this inviting 2-bedroom, 2-bathroom condo and enjoy a $400 Moving Allowance!\\\
+  n\\nPhotos:  https://www.dropbox.com/sh/4s255zqh0m04nxs/AAC89HRngcvUsAcPa9xJglPia?dl=0\
+  \ \\n\\nThis lovely unit is conveniently located within:\\n-Walking distances to\
+  \ 3 elementary schools, playgrounds, basketball courts, and parks, and easily accessible\
+  \ to bus routes\\n-8-minute driving or 10-minute bus ride from Century Park transit\
+  \ station\\n-Easy access to both Anthony Henday Drive, Whitemud Drive and Calgary\
+  \ Trail [Queen Elizabeth 2]\\n-20-minute to West Edmonton Mall and 10 minutes to\
+  \ South Edmonton Common Strip Mall\\nThis spacious condo boasts 2 bedrooms, 2 baths, and\
+  \ a walk-in closet in the master suite. The home features an end unit with an open\
+  \ floor plan and neutral color decor, and backs onto a walking trail. The unit also\
+  \ includes a large north-west facing balcony for relaxation and a well-situated\
+  \ underground parking spot. MacEwan Village is a welcoming community offering various\
+  \ amenities within easy reach, including shopping centers, schools, restaurants,\
+  \ and recreational facilities. This makes it an ideal place to call home.\\n\\nRestrictions:\
+  \ No smoking; Pets negotiable \\nRequirements: References, security deposit, and\
+  \ first month rent \\n\\nSeeking tenants for a 1-year lease at $1250.00/month\\\
+  n\\nAvailable Immediately! \\n\\nDon't miss this fantastic rental opportunity in\
+  \ a vibrant neighborhood! \\n\\n\\nContact: 780.245.0708 or c.liang@ualberta.ca\\\
+  n\\nBest regards,\\nChen\\n"
+postAdForm.tagsInput: 
+postAdForm.tags: Rutherford,South Edmonton,MacEwan,MacEwan Village,MacEwan
+postAdForm.addressStreetNumber: 616
+postAdForm.addressStreetName: McAllister Loop SW
+postAdForm.addressCity: Edmonton
+postAdForm.addressProvince: AB
+postAdForm.addressPostalCode: T6W 1N1
+locationLevel0: 1700202
+postAdForm.locationSubArea: 1700203
+postAdForm.mapAddress: 616 McAllister Loop SW, Edmonton T6W 1N1 AB
+file: 
+postAdForm.youtubeVideoURL: 
+postAdForm.priceType: FIXED
+postAdForm.priceAmount: 1250
+postAdForm.phoneNumber: 7802450708
+featuresForm.featurePackage: PKG_BASIC
+file: 
+featuresForm.topAdDuration: 7
+submitType: saveAndCheckout
+image_paths:
+- './4.jpeg'
+- './5.jpeg'
+- './12.jpeg'
+- './14.jpeg'
+- './15.jpeg'
+- './16.jpeg'
+- './18.jpeg'
+- './20.jpeg'
+- './21.jpeg'
+- './22.jpeg'
+- './23.jpeg'
