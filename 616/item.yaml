@@ -13,7 +13,7 @@ postAdForm.attributeMap[unittype_s]: condo
 postAdForm.attributeMap[numberbedrooms_s]: 2
 postAdForm.attributeMap[numberbathrooms_s]: 20
 postAdForm.attributeMap[agreementtype_s]: one-year
-postAdForm.attributeMap[dateavailable_tdt]: 15/05/2023
+postAdForm.attributeMap[dateavailable_tdt]: 01/09/2023
 postAdForm.attributeMap[petsallowed_s]: limited
 postAdForm.attributeMap[areainfeet_i]: 850
 postAdForm.attributeMap[furnished_s]: 0
@@ -48,8 +48,8 @@ postAdForm.description: "Welcome to MacEwan Village in SW Edmonton! Secure a 12-
   \ amenities within easy reach, including shopping centers, schools, restaurants,\
   \ and recreational facilities. This makes it an ideal place to call home.\\n\\nRestrictions:\
   \ No smoking; Pets negotiable \\nRequirements: References, security deposit, and\
-  \ first month rent \\n\\nSeeking tenants for a 1-year lease at $1250.00/month\\\
-  n\\nAvailable Immediately! \\n\\nDon't miss this fantastic rental opportunity in\
+  \ first month rent \\n\\nSeeking tenants for a 1-year lease at $1500.00/month and parking is available $80.00/month\\\
+  n\\nAvailable September 1st, 2023! \\n\\nDon't miss this fantastic rental opportunity in\
   \ a vibrant neighborhood! \\n\\n\\nContact: 780.245.0708 or c.liang@ualberta.ca\\\
   n\\nBest regards,\\nChen\\n"
 postAdForm.tagsInput: 
@@ -65,7 +65,7 @@ postAdForm.mapAddress: 616 McAllister Loop SW, Edmonton T6W 1N1 AB
 file: 
 postAdForm.youtubeVideoURL: 
 postAdForm.priceType: FIXED
-postAdForm.priceAmount: 1250
+postAdForm.priceAmount: 1500
 postAdForm.phoneNumber: 7802450708
 featuresForm.featurePackage: PKG_BASIC
 file: 
