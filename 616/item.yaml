@@ -22,11 +22,11 @@ postAdForm.booleanAttributeIds: dishwasher_s
 postAdForm.booleanAttributeIds: fridgefreezer_s
 postAdForm.attributeMap[airconditioning_s]: 1
 postAdForm.booleanAttributeIds: balcony_s
+postAdForm.booleanAttributeIds: elevator_s
 postAdForm.booleanAttributeIds: hydro_s
 postAdForm.booleanAttributeIds: heat_s
 postAdForm.booleanAttributeIds: water_s
 postAdForm.booleanAttributeIds: twentyfourhoursecurity_s
-postAdForm.booleanAttributeIds: elevator_s
 postAdForm.attributeMap[smokingpermitted_s]: 0
 postAdForm.attributeMap[numberparkingspots_s]: 1
 postAdForm.attributeMap[termagreement_s]: 
@@ -35,14 +35,14 @@ postAdForm.title: 'Charming & Spacious MacEwan Village Condo: All-Inclusive Livi
 postAdForm.description: "Welcome to MacEwan Village in SW Edmonton! Secure a 12-month\
   \ lease for this inviting 2-bedroom, 2-bathroom condo!\\\
   n\\nPhotos:  https://www.dropbox.com/sh/4s255zqh0m04nxs/AAC89HRngcvUsAcPa9xJglPia?dl=0\
-  \ \\n\\nThis lovely unit is conveniently located within:\\n-Walking distances to\
+  \ \\n\\nThis lovely unit is conveniently located within:\\n-Walking distance to\
   \ 3 elementary schools, playgrounds, basketball courts, and parks, and easily accessible\
   \ to bus routes\\n-8-minute driving or 10-minute bus ride from Century Park transit\
   \ station\\n-Easy access to both Anthony Henday Drive, Whitemud Drive and Calgary\
-  \ Trail [Queen Elizabeth 2]\\n-20-minute to West Edmonton Mall and 10 minutes to\
+  \ Trail [Queen Elizabeth 2]\\n-20 minute to West Edmonton Mall and 10 minutes to\
   \ South Edmonton Common Strip Mall\\nThis spacious condo boasts 2 bedrooms, 2 baths, and\
   \ a walk-in closet in the master suite. The home features an end unit with an open\
-  \ floor plan and neutral color decor, and backs onto a walking trail. The unit also\
+  \ floor plan and neutral colour decor and backs onto a walking trail. The unit also\
   \ includes a large north-west facing balcony for relaxation and a well-situated\
   \ underground parking spot. MacEwan Village is a welcoming community offering various\
   \ amenities within easy reach, including shopping centers, schools, restaurants,\
