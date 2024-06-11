@@ -13,7 +13,7 @@ postAdForm.attributeMap[unittype_s]: townhouse
 postAdForm.attributeMap[numberbedrooms_s]: 1
 postAdForm.attributeMap[numberbathrooms_s]: 1
 postAdForm.attributeMap[agreementtype_s]: one-year
-postAdForm.attributeMap[dateavailable_tdt]: 01/12/2022
+postAdForm.attributeMap[dateavailable_tdt]: 06/12/2024
 postAdForm.attributeMap[petsallowed_s]: limited
 postAdForm.attributeMap[areainfeet_i]: 500
 postAdForm.attributeMap[furnished_s]: 1
@@ -31,7 +31,7 @@ postAdForm.attributeMap[numberparkingspots_s]: 1
 postAdForm.attributeMap[termagreement_s]: 
 postAdForm.attributeMap[rentalsvirtualoptions_s]: 
 postAdForm.title: Elegant Timberlea Fully Furnished Room & Prime Location
-postAdForm.description: 'Discover the perfect place in Fort McMurray, a fully furnished one-bedroom in the heart of Timberlea.
+postAdForm.description: 'Discover the perfect place in Fort McMurray, a fully furnished shared one-bedroom in the heart of Timberlea.
 
 Photos: https://www.dropbox.com/sh/giawlrxpmsqalor/AACpfYQd4yWS7oNa0bkWQeIAa?dl=0 
 
@@ -50,7 +50,7 @@ Requirements: References, security deposit, and first month rent
 Utilities included: internet, cable, heat, water, and electricity 
 Tenant share responsibility for snow clearing, grass cutting 
 
-Seeking responsible tenant(s) for a 1-year lease at $750.00/month. 
+Seeking responsible tenant(s) at $700.00/month. 
 
 Move-in ready and available immediately! Rent can be prorated based on move-in date.
 
@@ -71,7 +71,7 @@ postAdForm.mapAddress: 196 Blackburn Drive, Fort McMurray T9K 0Z8 AB
 file: 
 postAdForm.youtubeVideoURL: 
 postAdForm.priceType: FIXED
-postAdForm.priceAmount: 750
+postAdForm.priceAmount: 700
 postAdForm.phoneNumber: 7802450708
 featuresForm.featurePackage: PKG_BASIC
 file: 
